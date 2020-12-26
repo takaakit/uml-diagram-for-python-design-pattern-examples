@@ -1,7 +1,7 @@
 UML Diagram for Python Design Pattern Examples
 ===
 
-This project lists UML diagrams of the "[Design Pattern Examples in Python](https://github.com/takaakit/design-pattern-examples-in-python)". When you click on a diagram image below, the diagram will be opened in <b>Diagram Map</b>. If you want to know about <b>Diagram Map</b>, please see the post below.  
+This project lists UML diagrams of the "[Design Pattern Examples in Python](https://github.com/takaakit/design-pattern-examples-in-python)". When you click on a diagram image, the diagram will be opened in **Diagram Map**. If you want to know about Diagram Map, please see this post:  
 [https://dev.to/takaakit/diagram-map-tracing-uml-sysml-elements-across-diagrams-49i7](https://dev.to/takaakit/diagram-map-tracing-uml-sysml-elements-across-diagrams-49i7)
 
 Behavioral Patterns
