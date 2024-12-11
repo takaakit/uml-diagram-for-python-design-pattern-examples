@@ -45,7 +45,7 @@ References
 Links
 ---
 * [Design Pattern Examples in Python](https://github.com/takaakit/design-pattern-examples-in-python)
-* [Diagram Map: tracing UML/SysML elements across diagrams](https://dev.to/takaakit/diagram-map-tracing-uml-sysml-elements-across-diagrams-49i7)
+* [Diagram Map: tracing UML elements across diagrams](https://dev.to/takaakit/diagram-map-tracing-uml-sysml-elements-across-diagrams-49i7)
 
 License
 ---
